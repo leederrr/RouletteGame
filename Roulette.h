@@ -1,5 +1,5 @@
-#ifndef M2OEP_MKELLE20_ROULETTE_H
-#define M2OEP_MKELLE20_ROULETTE_H
+#ifndef RouletteGame_ROULETTE_H
+#define RouletteGame_ROULETTE_H
 
 class Roulette {
 public:
@@ -14,4 +14,4 @@ private:
     long int money;
 };
 
-#endif //M2OEP_MKELLE20_ROULETTE_H
+#endif //RouletteGame_ROULETTE_H

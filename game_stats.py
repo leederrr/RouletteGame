@@ -1,7 +1,4 @@
-# Name: McKenzie Kelley
-# Course: CS 2300
-# Date: 29 October 2023
-#
+# This code makes charts showing high and low numbers pulled using R
 
 import matplotlib.pyplot as plt
 

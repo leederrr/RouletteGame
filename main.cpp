@@ -1,8 +1,4 @@
-/**
- * Name: McKenzie Kelley
- * Course: Cs2300
- * Date: 29 October 2023
- */
+// Main Menu cases and logic
 
 #include "Roulette.h"
 #include <memory>

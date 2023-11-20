@@ -1,4 +1,4 @@
-# This code makes charts showing high and low numbers pulled using R
+# This code makes charts showing high and low numbers pulled using Python
 
 import matplotlib.pyplot as plt
 
